@@ -1,0 +1,4 @@
+numpy
+easytello
+djitellopy
+cv2
